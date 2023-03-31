@@ -1284,6 +1284,9 @@ box-shadow: 0px 0px 10px #999;
         
 
     }
+    .section-body.reviews{
+        overflow-x: hidden;
+    }
 
     .menu-categorias ul{
         flex-direction: column;
