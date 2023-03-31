@@ -1266,10 +1266,7 @@ box-shadow: 0px 0px 10px #999;
 
 }
 
-
-
-/* celular*/
-
+/* mobile*/
 
 @media(max-width:549px) {
     .menu-categorias {
@@ -1281,8 +1278,6 @@ box-shadow: 0px 0px 10px #999;
         margin-top: 100px;
         margin-left: 25vw;
         display: none;
-        
-
     }
     .section-body.reviews{
         overflow-x: hidden;
@@ -1300,8 +1295,8 @@ box-shadow: 0px 0px 10px #999;
         margin-left: 30px;
         font-weight: bolder;
         height: 45px;
-
     }
+
 
     .menu-categorias li a{
         border: none;
@@ -1312,7 +1307,7 @@ box-shadow: 0px 0px 10px #999;
         border: none;
         color: #b28756;
 
-}
+    }
 
     .menu-moblie{
         display: flex;
